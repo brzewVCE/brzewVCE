@@ -30,6 +30,6 @@ przemyslawskrzypek00@gmail.com
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/BrzewVCE/BrzewVCE/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brzewVCE/brzewVCE/output/snake.svg" alt="Snake animation" />
 
 ###
