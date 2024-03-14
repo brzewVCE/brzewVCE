@@ -30,7 +30,6 @@ przemyslawskrzypek00@gmail.com
 </div>
 
 ###
-# 📊 GitHub Stats:
+<img src="https://raw.githubusercontent.com/BrzewVCE/BrzewVCE/output/snake.svg" alt="Snake animation" />
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=brzewVCE&theme=dark&hide_border=false)<br/>
+###
