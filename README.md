@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 10px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=00FF00&size=60&center=true&vCenter=true&width=1300&height=140&lines=Hello+there;Welcome+to+my+GitHub+profile&repeat=false&duration=2500" width="100%" height = auto  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&color=00FF00&size=60&center=true&vCenter=true&width=1300&height=140&lines=Why+would+I+spend+2+minutes+doing+something+when+I+can+spend+2+hours+failing+to+automate+it?&repeat=false&duration=2500" width="100%" height = auto  />
 </div>
 
 
