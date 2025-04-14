@@ -6,7 +6,7 @@
 # 👨‍💻 About Me:
 🎓 Cybersecurity student at Politechnika Wrocławska
 
-🛡️ Passionate  with a keen interest in Python. I am committed to staying ahead in the ever-evolving world of cybersecurity. Constantly honing my skills, I strive to provide innovative solutions
+🛡️ Passionate  with a keen interest in Penetration Testing. I am committed to staying ahead in the ever-evolving world of cybersecurity. Constantly honing my skills, I strive to provide innovative solutions
 
 💪 I have a passion for hitting the gym, finding balance and joy in the physical and digital realms.
 
