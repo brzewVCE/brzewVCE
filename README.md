@@ -1,37 +1,18 @@
-<div align="center" style="margin-bottom: 10px;">
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier&color=00FF00&size=22&center=true&vCenter=true&width=1300&height=140&lines=Why+would+i+waste+2+minutes+doing+something+when+i+could+spend+2+hours+failing+to+automate+it?&repeat=false&duration=3500" width="100%" height="auto" />
 
+# 👨‍💻 About Me
 
+🎓 Graduate of Cybersecurity from **Wrocław University of Science and Technology**.
 
-# 👨‍💻 About Me:
-🎓 Cybersecurity student at Politechnika Wrocławska
+🛡️ I am a dedicated Offensive Security Specialist with a passion for uncovering and exploiting complex vulnerabilities. My focus is on proactive security, identifying weaknesses in systems before they can be leveraged by malicious actors. I build custom security tools in **Python** to automate and enhance the penetration testing process.
 
-🛡️ Passionate  with a keen interest in Penetration Testing. I am committed to staying ahead in the ever-evolving world of cybersecurity. Constantly honing my skills, I strive to provide innovative solutions
+My core competencies include:
+-   **Web Application & API Penetration Testing** (OWASP Top 10, Business Logic Flaws)
+-   **Pioneering Penetration Testing for Generative AI (GenAI)**, including prompt injection, model inversion, and data poisoning attacks.
 
-💪 I have a passion for hitting the gym, finding balance and joy in the physical and digital realms.
+🚀 I have had the privilege to **collaborate with Intel** on developing innovative penetration testing methodologies and solutions specifically for Generative AI systems, pushing the boundaries of AI security.
 
-✉️ Feel free to mail me:
-przemyslawskrzypek00@gmail.com
+🥋 Outside of the digital world, I practice **martial arts**, which reinforces the discipline, strategic thinking, and adaptability essential for staying ahead in the ever-evolving landscape of cybersecurity.
 
-
-
-# 💻 Tech Stack:
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-</div>
-
-
-
-###
-
+---
