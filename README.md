@@ -9,10 +9,5 @@
 
 My core competencies include:
 -   **Web Application & API Penetration Testing** (OWASP Top 10, Business Logic Flaws)
--   **Pioneering Penetration Testing for Generative AI (GenAI)**, including prompt injection, model inversion, and data poisoning attacks.
-
-🚀 I have had the privilege to **collaborate with Intel** on developing innovative penetration testing methodologies and solutions specifically for Generative AI systems, pushing the boundaries of AI security.
-
-🥋 Outside of the digital world, I practice **martial arts**, which reinforces the discipline, strategic thinking, and adaptability essential for staying ahead in the ever-evolving landscape of cybersecurity.
-
+-   **Pioneering Penetration Testing for Generative AI (GenAI)**.
 ---
